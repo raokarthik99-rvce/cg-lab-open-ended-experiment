@@ -15,8 +15,8 @@ The source code for this work includes several projects implementing the various
 •	2_RASTERIZING_TRIANGLES_AND_BACK_FACE_CULLING – Filling the triangles and back face culling  
 •	3_HIDDEN_SURFACE_REMOVAL – Adding the Z-buffer to perform hidden surface removal  
 •	4_PERSPECTIVE_PROJECTION – Adding perspective to the render  
-•	5_MOVING_THE_CAMERA_+_GOURAUD_SHADING – Adding ability to move the camera and implementing Gouraud shading  
-•	6A_SHADERS_PHONG_+_SPECULAR_MAPPING – Adding Phong shading and specular mapping  
+•	5_MOVING_THE_CAMERA_GOURAUD_SHADING – Adding ability to move the camera and implementing Gouraud shading  
+•	6A_SHADERS_PHONG_SPECULAR_MAPPING – Adding Phong shading and specular mapping  
 •	6B_TANGENT_SPACE_NORMAL_MAPPING – Adding tangent space normal mapping  
 •	7_SHADOW_MAPPING – Adding ability to add shadow effects  
 •	8_AMBIENT_OCCLUSION – Adding option to include ambient occlusion  
