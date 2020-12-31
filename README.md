@@ -1,7 +1,7 @@
 # cg-lab-open-ended-experiment
 This repo contains the source code for "A custom rendering engine, from scratch", written in C++. This work has been completed as per requirements of 16CS73 (Computer Graphics) Lab. 
 
-For additional information:  
+## Additional information:  
 [Click here for the reference slides](https://drive.google.com/file/d/1fSkrEhmKWjzV-g8nYNvToc-UKvl9lara/view?usp=sharing)  
 [Click here for the detailed report](https://drive.google.com/file/d/17mWRUlwPjdvB-GU7BrfbA5orXiVnHu4B/view?usp=sharing)
 
